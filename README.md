@@ -1,6 +1,8 @@
-===========
+======================
 Example Project Samah
-===========
+======================
+
+The package follows this tutorial: https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
 Example Project Samah provides such and such and so and so. You might find
 it most useful for tasks involving <x> and also <y>. Typical usage
@@ -38,4 +40,6 @@ Numbered lists look like you'd expect:
 
 Urls are http://like.this and links can be
 written `like this <http://www.example.com/foo/bar>`_.
+
+The package follows this tutorial: https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
